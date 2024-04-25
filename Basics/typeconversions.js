@@ -1,11 +1,11 @@
 let score = "Parvez"
 
-// console.log(typeof score);
+ console.log(typeof score);
 
 let valueInNumber = Number(score)
 
-//console.log(valueInNumber);
-//console.log(typeof valueInNumber);
+console.log(valueInNumber);
+console.log(typeof valueInNumber);
 
 // "33" => 33 to convert string to number
 //"33abc" => NaN
