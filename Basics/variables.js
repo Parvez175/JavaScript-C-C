@@ -10,3 +10,4 @@ accountcity = "vijayapur"
 
 //Output all at once
 console.table([accountEmail, accountPassword, accountcity])
+
